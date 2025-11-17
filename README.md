@@ -1,1 +1,1 @@
-# ShalakyaSen09-SQL_-Chinook-Music-Store-Sales_Analysis_Project
+# SQL_-Chinook-Music-Store-Sales_Analysis_Project
