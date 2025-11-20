@@ -1,4 +1,4 @@
-# SQL_-Chinook-Music-Store-Sales_Analysis_Project
+# SQL-Chinook Music Store Sales Analysis Project
 The Chinook Music Store Sales Analysis Project is a popular SQL-based case study used to practice querying and business insights. It involves analyzing customer behavior, sales performance, and employee impact using a digital music store database.
 
 🎵 Project Overview
